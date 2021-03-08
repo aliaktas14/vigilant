@@ -4,7 +4,22 @@
     <projectFile>vigilant/vigilant.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47bc737-cc4f-4c0a-9c63-8b1078fc495a" name="Default Changelist" comment="" />
+    <list default="true" id="d47bc737-cc4f-4c0a-9c63-8b1078fc495a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vigilant/Controllers/ValuesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vigilant/Helpers/VueHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.vigilant/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vigilant/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.vigilant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vigilant/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/obj/Debug/net5.0/vigilant.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/obj/Debug/net5.0/vigilant.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/obj/Debug/net5.0/vigilant.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/obj/Debug/net5.0/vigilant.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/obj/vigilant.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/obj/vigilant.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigilant/vigilant.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/vigilant/vigilant.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/vigilant/Startup.cs" />
+      <option value="$PROJECT_DIR$/vigilant/Helpers/VueHelper.cs" />
+      <option value="$PROJECT_DIR$/vigilant/Program.cs" />
+      <option value="$PROJECT_DIR$/vigilant/Controllers/ValuesController.cs" />
+    </changedPaths>
+  </component>
   <component name="ProjectId" id="1pU1dEc6n4ILJI4TcCmtZ9O11U1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.vigilant">
@@ -67,6 +93,7 @@
       <updated>1615222939757</updated>
       <workItem from="1615222958936" duration="172000" />
       <workItem from="1615223153274" duration="358000" />
+      <workItem from="1615223588497" duration="1798000" />
     </task>
     <servers />
   </component>
@@ -88,6 +115,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
